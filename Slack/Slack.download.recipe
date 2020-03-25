@@ -28,6 +28,8 @@
 				<string>%DOWNLOAD_URL%</string>
 				<key>filename</key>
 				<string>%NAME%.dmg</string>
+				<key>curl_opts</key>
+				<string>-L</string>
 			</dict>
 		</dict>
 		<dict>
