@@ -29,7 +29,9 @@
 				<key>filename</key>
 				<string>%NAME%.dmg</string>
 				<key>curl_opts</key>
-				<string>-L</string>
+				<array>
+					<string>-L</string>
+				</array>
 			</dict>
 		</dict>
 		<dict>
