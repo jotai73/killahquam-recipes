@@ -30,7 +30,7 @@
 				<string>%NAME%.dmg</string>
 				<key>curl_opts</key>
 				<array>
-					<string>-L</string>
+					<string>--location</string>
 				</array>
 			</dict>
 		</dict>
