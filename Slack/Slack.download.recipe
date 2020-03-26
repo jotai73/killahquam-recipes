@@ -31,6 +31,8 @@
 				<key>curl_opts</key>
 				<array>
 					<string>--location</string>
+					<string>--user-agent</string>
+					<string>"User-Agent: Macintosh"</string>
 				</array>
 			</dict>
 		</dict>
